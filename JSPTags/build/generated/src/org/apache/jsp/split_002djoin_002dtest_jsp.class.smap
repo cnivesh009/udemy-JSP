@@ -1,0 +1,22 @@
+SMAP
+split_002djoin_002dtest_jsp.java
+JSP
+*S JSP
+*F
++ 0 split-join-test.jsp
+split-join-test.jsp
+*L
+5,15:65
+19:128,6
+19,3:82
+21:147,6
+21,7:87
+27:166,11
+28:177,3
+29:180
+29,5:96
+33:205,6
+33:103
+34:104,3
+35,4:107
+*E

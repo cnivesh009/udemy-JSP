@@ -1,0 +1,16 @@
+SMAP
+fun_002dtest_jsp.java
+JSP
+*S JSP
+*F
++ 0 fun-test.jsp
+fun-test.jsp
+*L
+5,13:45
+18:58,3
+19,4:61
+22,2:65
+23,5:66
+28,7:72
+34,6:79
+*E

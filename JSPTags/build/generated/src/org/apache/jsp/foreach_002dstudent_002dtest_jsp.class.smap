@@ -1,0 +1,17 @@
+SMAP
+foreach_002dstudent_002dtest_jsp.java
+JSP
+*S JSP
+*F
++ 0 foreach-student-test.jsp
+foreach-student-test.jsp
+*L
+5,7:56
+14,8:65
+21,22:73
+42:120,11
+43,2:131
+45,3:133,3
+48,3:142
+50,6:97
+*E

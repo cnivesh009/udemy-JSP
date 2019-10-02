@@ -1,0 +1,16 @@
+SMAP
+foreach_002dsimple_002dtest_jsp.java
+JSP
+*S JSP
+*F
++ 0 foreach-simple-test.jsp
+foreach-simple-test.jsp
+*L
+5,6:54
+12,3:61
+14,12:64
+25:100,11
+26:111,3
+27:114
+27,5:78
+*E

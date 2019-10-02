@@ -1,0 +1,13 @@
+SMAP
+scriptlet_002dtest_jsp.java
+JSP
+*S JSP
+*F
++ 0 scriptlet-test.jsp
+scriptlet-test.jsp
+*L
+5,16:44
+23,2:60
+25,4:63
+28,4:67
+*E

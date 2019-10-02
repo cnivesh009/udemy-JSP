@@ -1,0 +1,12 @@
+SMAP
+test_002dredirect_jsp.java
+JSP
+*S JSP
+*F
++ 0 test-redirect.jsp
+test-redirect.jsp
+*L
+5,13:44
+18,2:58
+19,4:60
+*E

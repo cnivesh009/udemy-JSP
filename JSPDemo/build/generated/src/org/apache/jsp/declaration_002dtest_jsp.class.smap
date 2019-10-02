@@ -1,0 +1,16 @@
+SMAP
+declaration_002dtest_jsp.java
+JSP
+*S JSP
+*F
++ 0 declaration-test.jsp
+declaration-test.jsp
+*L
+5,12:50
+18,2:62
+21,4:12
+24,3:64
+28:67
+29:68,3
+30,3:71
+*E
